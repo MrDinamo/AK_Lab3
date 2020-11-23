@@ -5,12 +5,12 @@
 - -h --help
 
   Help  menu
-- -s --showopt
+- -s --showOptions
 
   Key list
 - -a --arg
 
-  Get argument -a{value}
+  Argument -a{value}
 - -l --list 
 
   List
